@@ -1,0 +1,28 @@
+table th,td{border: 1px solid black;
+    width: 5%;} 
+th,td{padding: 1%;} 
+tr:nth-child(even)
+{background-color: skyblue;}
+  
+body{
+border: 3px solid black;
+border: dotted;
+border-radius: 10px;
+
+}
+
+.title {
+background-color: dimgrey;
+text-align: center;    
+}
+.bio{background-color: skyblue;}   
+.img{text-align: right;}
+
+p{font-size: large;}
+
+ul{font-size: large;}
+
+table{font-size: large;}
+
+h2{text-decoration: underline;}
+
